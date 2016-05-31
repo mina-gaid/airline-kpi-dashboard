@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+}
+#selector {
+    display: none;
+    text-align: center
+}
+.dropdown {
+    display: none;
+}
+#chart, #chart4{
+    height:500px;
+    width:1140px;
+    float:left;
+}
+#chart2, #chart3{
+    float:left;
+    width:570px;
+    height:320px;
+
+}
