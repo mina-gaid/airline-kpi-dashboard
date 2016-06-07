@@ -1,15 +1,19 @@
-# Aries Air KPI Dashboard
+# KPI Dashboard
 
-This dashboard was made as part of a database project. 
+This project was made in calibration with six team members.
 
-The dashboard displays key business information from a data warehouse that was created.
+Dashboard displays key business information from a data warehouse.
 
-You can check out a live demo of the application here: http://ariesair.azurewebsites.net
+Records were genrated using a Pythone script.
+
+Live demo of the application is available here: http://ariesair.azurewebsites.net
 
 ### Technologies Used
 
+- SQL
 - PHP
-- Klein
+- Google Charts API
 - Bootstrap
 - JavaScript
-- Google Charts API
+- Klein
+- Pythone
