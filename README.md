@@ -4,7 +4,7 @@ This project was made in calibration with six team members.
 
 Dashboard displays key business information from a data warehouse.
 
-Records were genrated using a Pythone script.
+Records were genrated using a Python script.
 
 Live demo of the application is available here: http://ariesair.azurewebsites.net
 
@@ -16,4 +16,4 @@ Live demo of the application is available here: http://ariesair.azurewebsites.ne
 - Bootstrap
 - JavaScript
 - Klein
-- Pythone
+- Python
