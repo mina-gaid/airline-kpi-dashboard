@@ -1,4 +1,4 @@
-# KPI Dashboard
+# Airline KPI Dashboard
 
 This project was made in calibration with six team members.
 
