@@ -1,6 +1,6 @@
 # Airline KPI Dashboard
 
-This project was made and submitted in calibration with six team members for our college database module.
+This project was made and submitted in collaboration with six team members for our college database module.
 
 The dashboard displays key business information from a data warehouse.
 Records are genrated using a Python script.
