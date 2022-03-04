@@ -1,12 +1,11 @@
 # Airline KPI Dashboard
 
-This project was made in calibration with six team members.
+This project was made and submitted in calibration with six team members for our college database module.
 
-Dashboard displays key business information from a data warehouse.
+The dashboard displays key business information from a data warehouse.
+Records are genrated using a Python script.
 
-Records were genrated using a Python script.
-
-Live demo of the application is available here: http://ariesair.azurewebsites.net
+A live demo of the application is available here: http://ariesair.azurewebsites.net
 
 ### Technologies Used
 
